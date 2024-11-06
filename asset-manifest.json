@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Project2/static/css/main.3036f98d.css",
+    "main.js": "/React-Project2/static/js/main.8265f74c.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/React-Project2/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/movie2.jpg": "/React-Project2/static/media/movie2.86d05bc00762721e8c2f.jpg",
+    "static/media/movie1.jpg": "/React-Project2/static/media/movie1.92a32bfbf023157bd22d.jpg",
+    "static/media/movie0.jpg": "/React-Project2/static/media/movie0.1b7df80f53955d07bd9d.jpg",
+    "static/media/movie4.jpg": "/React-Project2/static/media/movie4.aed8b6b7af195dd31304.jpg",
+    "static/media/nz_map.svg": "/React-Project2/static/media/nz_map.722df9cc8c5b72d6e0b4da490653d920.svg",
+    "static/media/movie3.jpg": "/React-Project2/static/media/movie3.a4a3e391689f9b383481.jpg",
+    "index.html": "/React-Project2/index.html",
+    "main.3036f98d.css.map": "/React-Project2/static/css/main.3036f98d.css.map",
+    "main.8265f74c.js.map": "/React-Project2/static/js/main.8265f74c.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/React-Project2/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3036f98d.css",
+    "static/js/main.8265f74c.js"
+  ]
+}
